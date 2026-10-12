@@ -1,0 +1,2 @@
+numpy 
+intution behind linear_regression_algorithm
